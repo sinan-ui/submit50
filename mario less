@@ -1,0 +1,11 @@
+$./mario
+Height: -1
+Height: 0
+Height: 40
+height: 55
+Height: 4
+Stored: 4
+(for i=0, i<5; i++
+{ 
+ printf("hello!\n");
+}
